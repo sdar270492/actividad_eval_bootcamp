@@ -1,0 +1,23 @@
+{
+  "name": "actividad_eval_bootcamp",
+  "version": "1.0.0",
+  "description": "actividad de evaluacion bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdar270492/actividad_eval_bootcamp.git"
+  },
+  "author": "Sergio Aguilar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdar270492/actividad_eval_bootcamp/issues"
+  },
+  "homepage": "https://github.com/sdar270492/actividad_eval_bootcamp#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  }
+}
