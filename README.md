@@ -37,3 +37,10 @@ Repositorio Público para la entrega de la actividad de evaluación del Master F
     listening on http://0.0.0.0:8080
 
     Base de Datos conectada!
+
+    A su ves, se adjunta el archivo .json:
+    apipersona_bootcamp.postman_collection.json
+
+    para poder importarlo en postman y probar las apis.
+
+    Gracias.
